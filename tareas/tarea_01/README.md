@@ -1,5 +1,5 @@
 # Tarea 1 Mario Pinto 
-## web story elegida: What makes an album the greatest of all time?
+## Web story elegida: What makes an album the greatest of all time?
 #### **https://pudding.cool/2024/03/greatest-music/**
 ## **Descripción**
 Esta webstory gira en torno a la pregunta que plantea su título. Por lo tanto, su objetivo es esclarecer qué factores inciden en que un álbum músical sea considerado dentro de los 500 mejores de la historia por la revista **Rolling Stone**. 
